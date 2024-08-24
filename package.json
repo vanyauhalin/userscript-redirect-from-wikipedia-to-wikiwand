@@ -1,0 +1,28 @@
+{
+  "name": "@vanyauhalin/userscript-redirect-from-wikipedia-to-wikiwand",
+  "version": "0.1.0",
+  "description": "Userscript that redirects from Wikipedia to Wikiwand",
+  "keywords": [
+    "userscript",
+    "redirect",
+    "wikiwand",
+    "wikipedia"
+  ],
+  "author": {
+    "name": "Ivan Uhalin",
+    "email": "vanyauhalin@gmail.com",
+    "url": "https://vanyauhalin.me/"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/vanyauhalin/userscript-redirect-from-wikipedia-to-wikiwand/",
+  "bugs": "https://github.com/vanyauhalin/userscript-redirect-from-wikipedia-to-wikiwand/issues/",
+  "repository": "github:vanyauhalin/userscript-redirect-from-wikipedia-to-wikiwand",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
